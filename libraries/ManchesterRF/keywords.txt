@@ -1,0 +1,27 @@
+man LITERAL1
+Manchester	KEYWORD1
+ManchesterRF	KEYWORD1
+setTxPin	KEYWORD2
+setRxPin	KEYWORD2
+beginReceive	KEYWORD2
+beginReceiveBytes	KEYWORD2
+receiveComplete	KEYWORD2
+getMessage	KEYWORD2
+stopReceive	KEYWORD2
+
+isDataAvailable  KEYWORD2
+
+transmitArray	KEYWORD2
+receiveArray	KEYWORD2
+transmitPacket	KEYWORD2
+receivePacket	KEYWORD2
+transmitByte	KEYWORD2
+receiveByte	KEYWORD2
+transmitWord	KEYWORD2
+receiveWord	KEYWORD2
+
+TxInit	KEYWORD2
+RxInit	KEYWORD2
+
+setBalance  KEYWORD2
+
